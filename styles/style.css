@@ -606,6 +606,19 @@ padding: 0;}
         left: 40px;
     }
 }
+@media(max-width:427px){
+    .main__end-link{
+        left: 40px;
+    }
+    .main__end-text{
+        font-size: 12px;
+    }
+}
+@media(max-width:391px){
+    .main__end-link{
+        left: 29px;
+    }
+}
 @media(max-width:365px){
     logo7 img{
         width: 100px;
